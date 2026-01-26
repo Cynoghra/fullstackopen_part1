@@ -1,1 +1,3 @@
-# fullstackopen_part1
+# Full Stack Open - Part 1
+
+Exercises: 1.1 - 1.14
